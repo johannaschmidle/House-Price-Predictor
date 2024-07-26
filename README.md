@@ -108,10 +108,10 @@ The dataset used in this project is available publicly on Kaggle: [https://www.k
 - **BedroomAbvGr**: Number of bedrooms above grade.
 
 ## Technologies
-- Python
-    - pandas, numpy, matplotlib, seaborn
-    - sklearn (RandomForestRegressor, mean_absolute_error, train_test_split, OrdinalEncoder, OneHotEncoder, DecisionTreeRegressor, mean_squared_error, r2_score, cross_val_score, GridSearchCV)
-    - scipy
-    - category_encoders
-    - xgboost
-    - IPython.display (display, HTML)
+Python
+- pandas, numpy, matplotlib, seaborn
+- sklearn (RandomForestRegressor, mean_absolute_error, train_test_split, OrdinalEncoder, OneHotEncoder, DecisionTreeRegressor, mean_squared_error, r2_score, cross_val_score, GridSearchCV)
+- scipy
+- category_encoders
+- xgboost
+- IPython.display (display, HTML)
